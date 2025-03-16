@@ -133,7 +133,7 @@ The interactive demo application (RealTime.py) provides a user-friendly interfac
 If you use this code or data in your research, please cite
 ```
 @misc{vietnameseeventextraction2025,
-  author = {Nguyen Nam and Pham Hoang},
+  author = {Le Hoang Nam and Nguyen Trong Huy Hoang},
   title = {Vietnamese Event Extraction with CRF, BiLSTM-CRF, and PhoBERT},
   year = {2025},
   publisher = {GitHub},
